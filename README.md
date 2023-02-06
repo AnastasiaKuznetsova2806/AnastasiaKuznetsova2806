@@ -16,7 +16,7 @@
 Бэкенд для сервиса, который дает возможность делиться информацией об интересных событиях и помогать найти компанию для участия в них.
 Работала с REST-сервис, Spring Boot, Maven, Lombok, взаимодействие с базой данных PostgreSQL с использованием JPA , Docker.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnastasiaKuznetsova2806&repo=java-explore-with-me)](https://github.com/AnastasiaKuznetsova2806/java-explore-with-me)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnastasiaKuznetsova2806&repo=java-explore-with-me)]([https://github.com/AnastasiaKuznetsova2806/java-explore-with-me](https://github.com/AnastasiaKuznetsova2806/java-explore-with-me)
 
 #### Shareit.
 Бэкенд для сервиса, который обеспечивает пользователям возможность рассказывать, какими вещами они готовы поделиться, находить нужную вещь и брать её в 
